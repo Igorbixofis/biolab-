@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 316.6 316.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0085c0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <circle class="cls-1" cx="158.3" cy="158.3" r="158.3" transform="translate(-65.57 158.3) rotate(-45)"/>
+      <g>
+        <rect class="cls-2" x="84.07" y="129.37" width="31.9" height="99.07"/>
+        <circle class="cls-2" cx="101.09" cy="100.38" r="17.33"/>
+        <path class="cls-2" d="M193.88,129.37c-12.2,0-21.13,5.83-26.99,11.62v-11.62h-31.9v99.07h31.9v-64.26c9.32-14.12,30.67-9.06,30.67,6.91v57.36h35.27v-55.82c0-27.3-14.72-43.25-38.95-43.25Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

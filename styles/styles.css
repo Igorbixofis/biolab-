@@ -107,7 +107,6 @@ color: azure;
     gap: 5px;
 }
 
-/* Conteúdo da Direita */
 .content {
     flex: 1;
 }
@@ -115,7 +114,7 @@ color: azure;
 .content h1 {
     font-size: 48px;
     margin-bottom: 20px;
-    color: #00a8e8; /* Azul claro do título */
+    color: #00a8e8; 
     font-weight: bold;
 }
 
@@ -205,7 +204,7 @@ color: azure;
 .stat-item h3 {
     font-size: 38px;
     font-weight: 800;
-    color: #006699; /* Azul mais escuro para destaque */
+    color: #006699; 
     margin-bottom: 15px;
     line-height: 1;
 }
@@ -226,7 +225,7 @@ color: azure;
     width: 100%;
     max-width: 500px;
     height: auto;
-    border-radius: 4px; /* Leve arredondamento como no print */
+    border-radius: 4px; 
     box-shadow: 0 15px 35px rgba(0,0,0,0.2);
 }
 
@@ -263,7 +262,7 @@ color: azure;
 .cards-wrapper {
     display: flex;
     gap: 20px;
-    overflow: hidden; /* Em um projeto real, aqui entraria o JS do carrossel */
+    overflow: hidden; 
 }
 
 .testimonial-card {
@@ -410,7 +409,7 @@ color: azure;
 }
 
 .product-card h3 {
-    font-size: 22px;/* Azul escuro para o texto e logo */
+    font-size: 22px;
     font-weight: bold;
     margin-bottom: 20px;
     letter-spacing: 1px;
@@ -422,7 +421,6 @@ color: azure;
     margin-bottom: 25px;
 }
 
-/* Botões de Ação (Exemplo no produto central) */
 .product-actions {
     display: flex;
     align-items: center;
@@ -503,7 +501,7 @@ color: azure;
     font-size: 16px;
 }
 
-.form-group textarea {/* Azul escuro para o texto e logo */
+.form-group textarea {
     height: 150px;
     resize: none;
 }
@@ -531,14 +529,14 @@ color: azure;
 .brands-panel {
     flex: 1;
     background: white;
-    border-radius: 40px; /* Bordas bem arredondadas como no print */
+    border-radius: 40px; 
     padding: 40px;
     color: #333;
     text-align: center;
 }
 
 .brands-panel h2 {
-    color: #8cc63f; /* Verde oliva/limão do título */
+    color: #8cc63f; 
     font-size: 24px;
     margin-bottom: 30px;
 }
@@ -628,7 +626,7 @@ color: azure;
 
 .legal-links a {
     color: #000;
-    text-decoration: underline; /* Estilo link padrão de política */
+    text-decoration: underline; 
 }
 
 .hystory{
@@ -659,4 +657,17 @@ color: azure;
     height: 627;
     width: 1297px;
 }
+
+.biocasa{
+    display: flex;
+    height: 100px;
+    width: 150px;
+}
+
+.biostudio{
+    display: flex;
+    height: 100px;
+    width: 150px;
+}
+
 

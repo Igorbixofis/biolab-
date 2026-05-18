@@ -46,3 +46,6 @@ O rodapé fecha a experiência do usuário mapeando a estrutura de navegação d
     Links de Navegação Rápida: Redirecionamento para todas as seções da página (Cuidado que nasce da ciência, Nossa história, Lançamentos, Nossos números, Casos de sucesso e SAC).
 
     Links Legais: Notas de copyright, além de acessos diretos para a Política de Privacidade, Termos de Serviço e Configurações de Cookies.
+
+## link do design figma 
+    https://www.figma.com/design/oqSALMGm9ho3aDvnbelMYX/Sem-t%C3%ADtulo?node-id=6-936&p=f&t=6jdD8vXde6DJ4WoJ-0
